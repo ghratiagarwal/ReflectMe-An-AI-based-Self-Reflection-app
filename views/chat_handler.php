@@ -23,7 +23,7 @@ try {
     $stmt_save->execute();
 
     // API Setup - Using 1.5-Flash (Stable)
-    $apiKey = "AIzaSyCGD-K62dJFtkKwv-Pj26i9mLifjZ4_6gQ"; 
+    $apiKey = ""; 
     $url = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:generateContent?key=" . $apiKey;
 
 

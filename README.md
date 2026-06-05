@@ -1,4 +1,4 @@
-# ReflectMe - Intelligent Mental Health & Mood Analytics Companion
+# ReflectMe - An AI Based Self Reflection App
 
 ReflectMe is a full-stack, secure web application designed to bridge the gap between structured emotional tracking and mindful self-care. By leveraging a stateful relational database model alongside the advanced contextual power of the Google Gemini LLM API, the application creates a continuous feedback loop. Users can securely authenticate, map their current emotional baselines, maintain multimedia journal entries, extract context-aware insights, and interact with an integrated conversational AI chatbot.
 

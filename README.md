@@ -6,7 +6,7 @@ ReflectMe is a full-stack, secure web application designed to bridge the gap bet
 
 ## 💻 Core Technical Stack
 
-*   **Backend Engineering:** Core PHP (Native, Session-State Management Management)
+*   **Backend Engineering:** Core PHP (Native, Session-State Management)
 *   **Database Management System:** MySQL (Relational Schema Design)
 *   **Frontend Interfaces:** HTML5, CSS3 (Custom Responsive Layouts), JavaScript / Asynchronous AJAX
 *   **AI Engine Integration:** Google Gemini LLM API (Via cURL / HTTP REST Endpoints)
